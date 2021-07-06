@@ -81,6 +81,7 @@ Once you click ENTER, this will open on your default browser.
 
 ---
 ## Examples
+
 Here are some of the data visualization we did for this project.
 
 ![Sale Price vs Gross Rent](./Images/saleprice_grossrent.jpeg)
