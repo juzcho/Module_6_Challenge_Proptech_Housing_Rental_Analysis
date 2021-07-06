@@ -89,6 +89,22 @@ Here are some of the data visualization we did for this project.
 
 ---
 
+## Usage
+
+1. We get the housing units in San Franciso and create an interactive bar plot, as shown below:
+![Housing Unit Plot](https://media.giphy.com/media/FR6STk5KNTepNDo4lZ/giphy.gif)
+
+
+2. On the neighborhood sale price and gross rent, you can choose which neighborhood you'd like to see, as shown below:
+![Neighborhood Plot](https://media.giphy.com/media/CmZVrmjRPvzcSSVtSb/giphy.gif)
+
+
+3. On the Geospatial San Francisco list of neighborhoods, we can see which has the highest gross rent and sale price per sqft, as shown below:
+
+![Geospatial Plot](./Images/geospatial.gif)
+
+---
+
 ## Contributors
 
 Contributed by: Justine Cho
