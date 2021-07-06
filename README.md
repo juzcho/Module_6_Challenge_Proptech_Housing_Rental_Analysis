@@ -73,7 +73,7 @@ Once you click ENTER, this will open on your default browser.
 ![PyViz](./Images/conda_plotly.jpeg)
 
 ---
-### 4. Install python-dotenv library
+### 3. Install python-dotenv library
 
 - To install this library, run the following command in your terminal:
 
@@ -86,8 +86,9 @@ Here are some of the data visualization we did for this project.
 ![Sale Price vs Gross Rent](./Images/saleprice_grossrent.jpeg)
 ![Geospatial SFO](./Images/geospatial_san_francisco.jpeg)
 
-## Contributors
+---
 
+## Contributors
 
 Contributed by: Justine Cho
 
