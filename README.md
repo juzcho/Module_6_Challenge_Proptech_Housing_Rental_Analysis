@@ -1,6 +1,6 @@
-# **Module 6 Challenge: Proptech Housing Rental Analysis**
+# **Property Tech Housing Rental Analysis**
 
-## Proptech Housing Rental Analysis
+## Overview
 
 The Proptech tool is about evaluating the different San Francisco neighborhoods and understanding which neighborhood would be a good investment over time that will be good to buy and then rent the properties afterwards. 
 
